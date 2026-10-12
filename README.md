@@ -29,9 +29,9 @@ npm run preview   # preview the build locally
 
 | Role      | Membership ID | Password   | Can access                                  |
 |-----------|---------------|------------|---------------------------------------------|
-| Admin     |33704    |7707Br  | Dashboard, Books, Transactions, Users       |
-| Librarian | 71101        | hhzw!1   | Dashboard, Books, Transactions              |
-| Member    | 1101101       |zz110zz  | Dashboard                                   |
+| Admin     |ADMIN001   |admin123  | Dashboard, Books, Transactions, Users       |
+| Librarian | LIB001      | lib12345  | Dashboard, Books, Transactions              |
+| Member    | MEMOO1      |member123  | Dashboard                                   |
 
 Sample books, users and transactions are created automatically on the first visit. Admins can restore them from the bottom of the Users page.
 
