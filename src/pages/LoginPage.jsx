@@ -6,9 +6,9 @@ import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { validateLogin } from '../utils/validators';
 
 const DEMO_ACCOUNTS = [
-  { role: 'Admin', id: '33704', password: '7707Br' },
-  { role: 'Librarian', id: '71101', password: 'hhzw!1' },
-  { role: 'Member', id: '11011101', password: 'zz110zz' },
+  { role: 'Admin', id: 'ADMIN001', password: 'admin123' },
+  { role: 'Librarian', id: 'LIB001', password: 'lib12345' },
+  { role: 'Member', id: 'MEM001', password: 'member123' },
 ];
 
 export default function LoginPage() {
